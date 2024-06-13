@@ -1,1 +1,2 @@
 Master branch
+Adding this line to test a git fetch command
